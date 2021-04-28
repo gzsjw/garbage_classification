@@ -8,5 +8,6 @@
   "files.associations": {
     "esp_wn_models.h": "c",
     "esp_wn_iface.h": "c"
-  }
+  },
+  "idf.flashType": "UART"
 }
